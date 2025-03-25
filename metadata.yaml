@@ -1,5 +1,8 @@
 _repo: Eine-Kindheitserinnerung-des-Leonardo-da-Vinci_75455
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75455-h/images/cover.jpg
 creator:
   author:
     agent_name: Freud, Sigmund
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Sigmund_Freud
     - https://de.wikipedia.org/wiki/Sigmund_Freud
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75455#Eine-Kindheitserinnerung-des-Leonardo-da-Vinci
 gutenberg_issued: '2025-02-24'
 gutenberg_type: Text
 identifiers:
